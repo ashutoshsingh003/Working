@@ -8,7 +8,7 @@ package main;
 public class TrackCoach implements Coach{
     @Override
     public String getDailyWorkOut() {
-        return "Run fast upto 5k";
+        return "Do daily workout for atleast 30 minutes";
     }
 
     @Override
